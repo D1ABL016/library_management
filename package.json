@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "express": "^4.19.2",
+        "jsdom": "^24.1.0",
+        "my-sql": "1.2.15",
+        "node-fetch": "^2.7.0",
+        "package.json": "^0.0.0"
+    }
+}
